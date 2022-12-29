@@ -1,9 +1,21 @@
-# Phaser 3 + TypeScript + Vite.js Template
+# Capsule
+
 > Make Phaser 3 games with TypeScript and modern frontend tooling.
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 This is a TypeScript specific fork of [phaser3-vite-template](https://github.com/ourcade/phaser3-vite-template).
+
+## Description
+
+You're a ship in space trying to find a message for humanity from long ago.
+
+However, an evil race of aliens are in the way. Use the weapons and special
+abilities of your ship to defeat the aliens and overcome the major challenges
+that await for you at the end of each of stage.
+
+Can you make it through the trio of trials ande tribulations to uncover the
+message in the **capsule**?
 
 ## Prerequisites
 
