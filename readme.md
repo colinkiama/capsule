@@ -14,7 +14,7 @@ However, an evil race of aliens are in the way. Use the weapons and special
 abilities of your ship to defeat the aliens and overcome the major challenges
 that await for you at the end of each of stage.
 
-Can you make it through the trio of trials ande tribulations to uncover the
+Can you make it through a trio of trials and tribulations to uncover the
 message in the **capsule**?
 
 ## Prerequisites
